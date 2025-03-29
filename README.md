@@ -1,42 +1,65 @@
-# 🚀 Welcome to My Digital Universe! 👽✨
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=26&center=true&vCenter=true&lines=🚀+Welcome+to+My+GitHub;💻+Developer+|+Tech+Enthusiast;🔥+Creating+the+Future">
+</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=2000&pause=1000&color=00FFF7&width=500&lines=Greetings+Earthling!;Exploring+Code+and+Innovation;Building+the+Future!;Join+the+Journey!;🚀+🛸+💡)
-
----
-
-## 🛸 About Me
-### **👨‍🚀 Ankur Santra - Aspiring Innovator & Student Developer**
-🔹 Passionate about **futuristic tech, AI, and cosmic possibilities**  
-🔹 Exploring **the metaverse, blockchain, and next-gen computing**  
-🔹 Crafting **otherworldly applications with cutting-edge tech**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="150px">
+</p>
 
 ---
 
-## 🔮 Tech Stack - Tools from Another Dimension
-![Tech Icons](https://skillicons.dev/icons?i=python,js,react,nodejs,docker,git,linux,vscode,astro,threejs)
+## 🚀 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,git,github,vscode,figma&theme=dark" />
+</p>  
 
 ---
 
-## 🌌 Featured Projects from the Future
-🚀 **[Quantum Nexus](GitHub Repo Link)**  
-📌 *An AI-driven portal to intergalactic insights.*  
+## 🔥 **GitHub Stats & Contributions**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
+</p>  
 
-🛠 **[NeonVerse](GitHub Repo Link)**  
-📌 *A cyberpunk-themed web experience with 3D interactions.*  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
----
-
-## 📡 Galactic Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
-
-## 🌠 Connect with Me Across the Universe
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFF7?style=for-the-badge&logo=linkedin&logoColor=black)](Your LinkedIn URL)  
-[![Twitter](https://img.shields.io/badge/Twitter-00FFF7?style=for-the-badge&logo=twitter&logoColor=black)](Your Twitter URL)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFF7?style=for-the-badge&logo=firefox&logoColor=black)](Your Website URL)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
+</p>  
 
 ---
 
-### **🛸 Thanks for Visiting! Keep Innovating! 🌌**
+## 🌀 **3D Contribution Snake**
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎵 **Now Playing on Spotify**
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&show_offline=false" />
+</p>  
+
+---
+
+## 💡 **Quote of the Day**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
+
+## ⚡ **Get in Touch**
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>  
+
+---
