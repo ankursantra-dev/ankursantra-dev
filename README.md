@@ -1,27 +1,42 @@
-# Hi there! 👋✨
+# 🚀 Welcome to My Digital Universe! 👽✨
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+creating!;Let's+build+something+awesome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=2000&pause=1000&color=00FFF7&width=500&lines=Greetings+Earthling!;Exploring+Code+and+Innovation;Building+the+Future!;Join+the+Journey!;🚀+🛸+💡)
 
-## 🚀 About Me
-Hi, I'm **[Your Name]**, a passionate **[Your Role]** who loves exploring new technologies and building innovative projects. 
+---
 
-### 🔧 Tech Stack
-![Tech Icons](https://skillicons.dev/icons?i=python,js,react,nodejs,docker,git,linux,vscode)
+## 🛸 About Me
+### **👨‍🚀 Ankur Santra - Aspiring Innovator & Student Developer**
+🔹 Passionate about **futuristic tech, AI, and cosmic possibilities**  
+🔹 Exploring **the metaverse, blockchain, and next-gen computing**  
+🔹 Crafting **otherworldly applications with cutting-edge tech**  
 
-## 🌟 Featured Projects
-🚀 **[Project Name](GitHub Repo Link)**  
-📌 *Brief description of what it does.*
+---
 
-🚀 **[Project Name](GitHub Repo Link)**  
-📌 *Brief description of what it does.*
+## 🔮 Tech Stack - Tools from Another Dimension
+![Tech Icons](https://skillicons.dev/icons?i=python,js,react,nodejs,docker,git,linux,vscode,astro,threejs)
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](Your LinkedIn URL)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](Your Twitter URL)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](Your Website URL)  
+## 🌌 Featured Projects from the Future
+🚀 **[Quantum Nexus](GitHub Repo Link)**  
+📌 *An AI-driven portal to intergalactic insights.*  
 
-Thanks for visiting my profile! 🚀😃
+🛠 **[NeonVerse](GitHub Repo Link)**  
+📌 *A cyberpunk-themed web experience with 3D interactions.*  
+
+---
+
+## 📡 Galactic Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+---
+
+## 🌠 Connect with Me Across the Universe
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFF7?style=for-the-badge&logo=linkedin&logoColor=black)](Your LinkedIn URL)  
+[![Twitter](https://img.shields.io/badge/Twitter-00FFF7?style=for-the-badge&logo=twitter&logoColor=black)](Your Twitter URL)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFF7?style=for-the-badge&logo=firefox&logoColor=black)](Your Website URL)  
+
+---
+
+### **🛸 Thanks for Visiting! Keep Innovating! 🌌**
