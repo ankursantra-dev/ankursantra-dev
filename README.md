@@ -30,17 +30,19 @@
 ---
 
 ## 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankursantra-dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<p align="center" style="font-size:0;">
+  <a href="https://www.linkedin.com/in/ankursantra-dev/" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin:0 12px;"/>
   </a>
-  <a href="https://x.com/AnkursantraDev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  <a href="https://x.com/AnkursantraDev" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" style="margin:0 12px;"/>
   </a>
-  <a href="https://www.instagram.com/the.void.07/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  <a href="https://www.instagram.com/the.void.07/" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" style="margin:0 12px;"/>
   </a>
 </p>
+
+
 
 ---
 
