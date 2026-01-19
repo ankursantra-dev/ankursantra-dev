@@ -44,6 +44,6 @@
 
 ---
 
-<p align="center">
+<h3 align="center">
   🚀 *“Build things. Break things. Learn fast.”*
-</p>
+</h3>
