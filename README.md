@@ -45,5 +45,5 @@
 ---
 
 <h3 align="center">
-  🚀 *“Build things. Break things. Learn fast.”*
+  🚀 “Build things. Break things. Learn fast.”
 </h3>
