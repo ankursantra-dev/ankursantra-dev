@@ -31,13 +31,13 @@
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/ankursantra-dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <a href="https://x.com/AnkursantraDev" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
+  <a href="https://www.instagram.com/the.void.07/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </p>
